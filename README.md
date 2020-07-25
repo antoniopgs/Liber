@@ -1,5 +1,7 @@
 # Liber
 
+![Image of Yaktocat](https://st1.uvnimg.com/be/69/b5addde344178ed0ef4effe4f509/54123-9.jpg)
+
 **Description:** Sovereign City State Seastead
 
 **Name:** Liber (Free)
