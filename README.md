@@ -22,11 +22,14 @@ History has also proven that the greatest ages of humanity have all derived from
 
 **Constitution:**
 1. This consitution shall forever remain unchanged.
-2. All of the rights in this constitution will be granted by citizenship. Citizenship will only be granted by a willing and voluntary contract established by the government and each citizen
+2. All amendments hereby presented will only be granted to citizens. An individual shall only attain citizenship through a mutual, consensual, willing and voluntary contract established between the government and each citizen to be.
+3. No citizen shall ever be forced to pay another individual, group, entity, organization or government.
 3. The price of citizenship may change, but if it does, it must change equally for all citizens. All citizens must pay the same price for citizenship, regardless of their wealth.
 2. There shall be no infringement upon a citizen's freedom of speech, religion, peaceful assembly or petition.
 3. The right of each citizen to keep and bear arms shall not be infringed upon.
-4. No individual, group, entity or organization shall receive any form of payment/funding/bailout by the government.
+4. The right of each citizen to own property shall not be infringed upon.
+4. No citizen, group, entity or organization shall receive any form of payment/funding/bailout by the government.
+5. No citizen shall be imprisoned/penalized for anything other than infringement of another's rights.
 
 **Needs:**
 - Stability (Calm Waters, Low Winds, No Hurricanes/Tornadoes/Cyclones/Typhoons)
