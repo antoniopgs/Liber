@@ -24,6 +24,7 @@ History has also proven that the greatest ages of humanity have all derived from
 3. The price of citizenship may change, but if it does, it must change equally for all citizens. All citizens must pay the same price for citizenship, regardless of their wealth.
 2. There shall be no infringement upon a citizen's freedom of speech, religion, peaceful assembly or petition.
 3. The right of each citizen to keep and bear arms shall not be infringed upon.
+4. No individual, group, entity or organization shall receive any form of payment/funding/bailout by the government.
 
 **Needs:**
 - Stability (Calm Waters, Low Winds, No Hurricanes/Tornadoes/Cyclones/Typhoons)
