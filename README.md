@@ -1,12 +1,12 @@
 # Liber
 
-![Image of a Seastead](/Seasteading.jpg)
-
 **Description:** Sovereign City State Seastead
 
 **Name:** Liber (Free)
 
 **Motto:** Lex, Logos, Libertas (Law, Reason, Liberty)
+
+![Image of a Seastead](/Seasteading.jpg)
 
 **Introduction:**
 
