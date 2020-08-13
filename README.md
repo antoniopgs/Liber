@@ -18,7 +18,7 @@ History has also proven that the greatest ages of humanity have all derived from
  - Liber will be governed by Laws, not people.
  - Liber will have two sets of laws:
   - The Constitution (permanent and unmodifiable)
-  - The ??? (everchanging and modifiable).
+  - The Legal Board (everchanging and modifiable).
 
 **Constitution:**
 1. This consitution shall forever remain unchanged.
@@ -45,7 +45,21 @@ History has also proven that the greatest ages of humanity have all derived from
   
 **Currency & Taxation:**
 
-With the advent of Cryptocurrencies and Blockchain Technology, Liber will not need any official currency.
+With the advent of Cryptocurrencies and Blockchain Technology, Liber will not need any official currency. There are P2P Cryptocurrency Payment Apps that will allow decentralized payments.
 However this will make taxation much harder, to due to decentralized and private nature of cryptocurrencies.
 So instead of a mandatory taxation system, Liber will simply attach each citizen's rights to his/her taxes.
 In order to have property rights, access to a fair trial, etc. One must pay taxes.
+This is the most fair and pragmatic way to solve the tax problem. It will also make the need for fiscal authority obsolete, further diminishing governamental needs, and consequently the amount of required taxes for citizenship.
+
+
+There are many technologies like Seacreate and OTEC generators. They may seem like good options, but they are unproven or immature at best.
+It will be better to found Liber with simpler, more proven technologies, and let Liber's freedom generate these new ideas with time.
+Unless the process is simplified, no private funding will ever be received. Better to start small and grow, than to dream too big and fail.
+By reading Patri Freidman's Practical Guide to Seasteading, one can conclude that the main reason for failure are unrealistic ambitions and over-complication.
+
+Liber (by its own nature) will obviously present a threat to politicians, bureaucrats and authoritarian governments.
+However, one must also be aware of threats like being an exhile for international criminals.
+Therefore, only individuals with no criminal past will be allowed to move to Liber.
+
+Morally and ethically Liber should legalize all drugs. However, this might present itself as an easy excuse for goverments to attack it.
+This should be taken into account when deciding on Liber's Location.
