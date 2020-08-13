@@ -4,7 +4,7 @@
 
 **Description:** Sovereign City State Seastead
 
-**Motto:** Lex, Logos, Libertas
+**Motto:** Lex, Logos, Libertas (Law, Reason, Liberty)
 
 ![Image of a Seastead](/Seasteading.jpg)
 
