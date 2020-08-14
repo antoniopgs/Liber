@@ -10,8 +10,8 @@
 
 ## Introduction:
 
-History has proven time and time again that only authoritarianism can create the type of circumstances out of which the greatest of Human Suffering is born. Genocide, Slavery, Concentration Camps, Rape and Pointless Wars all stem from forceful manipulation and infrigement upon individual liberty.
-It has also proven however, that humanity's greatest golden ages are byproducts of liberty. The Athenian Democracy (freedom to choose one's rulers), The Renaissance, The Enlightenment (freedom to use rational thought), America (life, liberty and the pursuit of happiness) were all based on bottom-up free markets, individuality and freedom.
+History has proven time and time again that only authoritarianism can create the type of circumstances out of which the greatest of Human Suffering is born. Economic Stagnation, Censorship, Starvation, Genocide, Slavery, Concentration Camps, Rape and Pointless Wars all stem from forceful manipulation and infrigement upon Individual Liberty.
+History has also proven however, that humanity's greatest golden ages are byproducts of liberty. The Athenian Democracy (freedom to choose one's rulers), The Renaissance, The Enlightenment (freedom to use rational thought), America (life, liberty and the pursuit of happiness) were all based on bottom-up free markets, individuality and freedom.
 
 ## On the Redistribution of Wealth
 At first, many countries implemented capitalist democracies with small welfare states. They believed they could "find a reasonable middle ground" between the left and the right.
