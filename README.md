@@ -8,12 +8,12 @@
 
 ![Image of a Seastead](/Seasteading.jpg)
 
-**Introduction:**
+## Introduction:
 
 History has proven time and time again that only authoritarianism can create the type of circumstances out of which the greatest of Human Suffering is born. Genocide, Slavery, Concentration Camps, Rape and Pointless Wars all stem from forceful manipulation and infrigement of individual liberty.
 History has also proven that the greatest ages of humanity have all derived from liberty. The Athenian Democracy (freedom to choose one's rulers), The Renaissance, The Enlightenment (freedom to use rational thought), America (life, liberty and the pursuit of happiness) were all based on bottom-up individuality and freedom.
   
-**Conclusions:**
+## Conclusions:
  - Liber will be a nation based on liberty, both on the economic and lifestyle aspects.
  - Liber will be governed by Laws, not people.
  - Liber will have two sets of laws:
@@ -29,7 +29,7 @@ The optimal solution is to have two legal documents:
   - One of them immutable and everlasting, that forever ensure's the protection of each individual's rights (The Constitution).
   - One of them mutable, where citizens can vote on issues like overfishing, carbon emissions, etc.
 
-**Constitution:**
+## Constitution:
 1. This consitution shall forever remain unchanged.
 2. All amendments hereby presented will only be granted to citizens. An individual shall only attain citizenship through a mutual, consensual, willing and voluntary contract established between the government and each citizen to be.
 3. No citizen shall ever be forced to pay another individual, group, entity, organization or government.
@@ -40,26 +40,29 @@ The optimal solution is to have two legal documents:
 4. No citizen, group, entity or organization shall receive any form of payment/funding/bailout by the government.
 5. No citizen shall be imprisoned/penalized for anything other than infringement of another's rights.
 
-**Needs:**
+## Needs:
 - Stability (Calm Waters, Low Winds, No Hurricanes/Tornadoes/Cyclones/Typhoons)
 - Energy (Locations with high Sunlight Exposure)
 - Food (Seastead infrastructure might increase amount of fish)
 - Safety (Away from Piracy, Authoritarian Governments, and the right to bear arms)
 
-**Structure:**
+## Structure:
  - Liber will possess a minimal goverment. It's only function will be to enforce the Non Agression Principle among all it's citizens (tax paying individuals). To enforce the NAP, the following institutions will be needed:
   - Military (protect citizens from foreign force)
   - Police (protect citizens from force by other individuals)
   - Courts (guarantee and uphold each citizen's rights)
   - Prison (protect and isolate citizens from individuals incapable of following the NAP)
   
-**Currency & Taxation:**
+## Currency & Taxation:
 
-With the advent of Cryptocurrencies and Blockchain Technology, Liber will not need any official currency. There are P2P Cryptocurrency Payment Apps that will allow decentralized payments.
+With the advent of Cryptocurrencies and Blockchain Technology, Liber will not need any official currency. There are P2P Cryptocurrency Payment Apps that will allow decentralized payments between individuals.
 However this will make taxation much harder, to due to decentralized and private nature of cryptocurrencies.
 So instead of a mandatory taxation system, Liber will simply attach each citizen's rights to his/her taxes.
 In order to have property rights, access to a fair trial, etc. One must pay taxes.
 This is the most fair and pragmatic way to solve the tax problem. It will also make the need for fiscal authority obsolete, further diminishing governamental needs, and consequently the amount of required taxes for citizenship.
+The free adoption of the entire cryptocurrency system will also allow Liber's residents to evolve as this space evolves.
+It will also eliminate the need for a national banking system, therefore eliminating a possible gateway for international money laundering.
+It will also better position the finances of Liber's residents in the international cyberspace.
 
 Although Liber will not need any official currency, there wil need to be some sort of standard for taxation.
 The optimal solution would be to pick some cryptocurrency and make it a standard.
@@ -70,7 +73,19 @@ Need to think further about what standard Liber should use for it's taxes.
 There are many technologies like Seacreate and OTEC generators. They may seem like good options, but they are unproven or immature at best.
 It will be better to found Liber with simpler, more proven technologies, and let Liber's freedom generate these new ideas with time.
 Unless the process is simplified, no private funding will ever be received. Better to start small and grow, than to dream too big and fail.
-By reading Patri Freidman's Practical Guide to Seasteading, one can conclude that the main reason for failure are unrealistic ambitions and over-complication.
+By reading Patri Freidman's Practical Guide to Seasteading, one can conclude that the main reason for failure are:
+ - Unrealistic Ambitions and Over-Complication.
+ - Bad Location choice
+ 
+## Location
+Liber will need to be located in calm waters and away from authoritarian regimes. 
+These can be found on The Doldrums or on the Horse Latitudes.
+Compared to the Doldrums, the Horse Latitudes have more pleasant temperature, drier air, less clouds, higher sun exposure (greater potencial for solar), and less prevalence for storms, tornadoes and the like.
+The ideal location for Liber will therefore be in the Horse Latitudes or Subtropical Highs.
+In previous attempts, seasteads were placed very close to territorial waters. On one hand, this makes infrastucture transport and commerce easier. But it also means the higher likelihood that any given nation will interfere and claim Liber as it's sovereignty. Therefore it will be better to be far way, in deep international waters.
+The options are North Atlantic, South Atlantic, North Pacific, South Pacific and the southern Indian Ocean.
+The North and South Pacific are not protected enough from China, the southern indian isn't protected enough from piracy and it's closer to countries who previously stifled seasteading attempts. The South Atlantic could be advantageous due to the proximity to drug cartels, but these are unpredictable.
+The best location will therefore be the North Atlantic Subtropical High. In the heart of western civilization, between The United States of America and Western Europe, this will place Liber in calm waters, good weather, away from piracy, away from major authoritarian regimes and in the heart of important international commerce routes.
 
 Liber (by its own nature) will obviously present a threat to politicians, bureaucrats and authoritarian governments.
 However, one must also be aware of threats like being an exhile for international criminals.
