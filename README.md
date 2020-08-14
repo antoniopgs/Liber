@@ -9,13 +9,17 @@
 ![Image of a Seastead](/Seasteading.jpg)
 
 ## Introduction:
+History has proven time and time again that only authoritarianism can create the type of circumstances out of which the greatest of Human Suffering is born. Economic Stagnation, Censorship, Starvation, Genocides, Slavery, Concentration Camps and Pointless Wars all stem from forceful manipulation and infrigements upon Individual Liberty.
 
-History has proven time and time again that only authoritarianism can create the type of circumstances out of which the greatest of Human Suffering is born. Economic Stagnation, Censorship, Starvation, Genocide, Slavery, Concentration Camps, Rape and Pointless Wars all stem from forceful manipulation and infrigement upon Individual Liberty.
-History has also proven however, that humanity's greatest golden ages are byproducts of liberty. The Athenian Democracy (freedom to choose one's rulers), The Renaissance, The Enlightenment (freedom to use rational thought), America (life, liberty and the pursuit of happiness) were all based on bottom-up free markets, individuality and freedom.
+History has also proven however, that humanity's greatest golden ages are byproducts of liberty. The Athenian Democracy (freedom to choose one's rulers), The Renaissance, The Enlightenment (freedom to use rational thought), America (life, liberty and the pursuit of happiness) were all based on Individual Liberty.
+
+There are many supporters of Individual Liberty, but unfortunately they are drowned out admist economically blind socialists or dogmatic conservatives.
+It is pointless to try to reason with unreasonable individuals. For long we have tried to explain the value of true Liberty, to no avail.
+No amount of debate, arguments or reasoning will change their minds. The only thing that will change their minds is reality. A new reality, that will rise from better principles and show (not merely tell) the world about the true value of Liberty.
+It is therefore imperative to found a new nation based on Individual Liberty.
 
 ## On the Redistribution of Wealth
 At first, many countries implemented capitalist democracies with small welfare states. They believed they could "find a reasonable middle ground" between the left and the right.
-
 Now Democracy (by its own definition) is the rule of the majority.
 The majority (by its own definition) is not a successful or exceptional demographic. It's average, at best.
 **This means that the people who control your nation's Capitalism and Freedom (the average majority) have it in their rational self-interest to constantly push for more and more welfare, the exact thing that kills them.**
