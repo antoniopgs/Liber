@@ -60,14 +60,13 @@ The optimal solution is to have two legal documents:
 10. No citizen shall be imprisoned or penalized for anything other than infringing upon another citizen's rights.
 
 ## Structure:
- - Liber will possess a minimal goverment. It's only function will be to enforce the Non Agression Principle among all it's citizens (tax paying individuals). To enforce the NAP, the following institutions will be needed:
-  - Military (protect citizens from foreign force)
-  - Police (protect citizens from force by other individuals)
-  - Courts (guarantee and uphold each citizen's rights)
-  - Prison (protect and isolate citizens from individuals incapable of following the NAP)
-  
-## Currency & Taxation:
+Liber will possess a minimal goverment. It's only function will be to enforce the Non Agression Principle protection for all it's citizens (tax paying individuals). To enforce the NAP, the following institutions will be needed:
+- Military (protect citizens from foreign force)
+- Police (protect citizens from other individuals)
+- Prisons (protect and isolate citizens from individuals incapable of following the NAP)
+- Courts (guarantee and uphold each citizen's rights)
 
+## Currency & Taxation:
 With the advent of Cryptocurrencies and Blockchain Technology, Liber will not need any official currency. There are P2P Cryptocurrency Payment Apps that will allow decentralized payments between individuals.
 However this will make taxation much harder, to due to decentralized and private nature of cryptocurrencies.
 So instead of a mandatory taxation system, Liber will simply attach each citizen's rights to his/her taxes.
