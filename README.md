@@ -1,4 +1,4 @@
-# Liber
+# Project Liber
 
 **Name:** Liber
 
@@ -11,7 +11,7 @@
 ## Introduction:
 
 History has proven time and time again that only authoritarianism can create the type of circumstances out of which the greatest of Human Suffering is born. Genocide, Slavery, Concentration Camps, Rape and Pointless Wars all stem from forceful manipulation and infrigement of individual liberty.
-History has also proven that the greatest ages of humanity have all derived from liberty. The Athenian Democracy (freedom to choose one's rulers), The Renaissance, The Enlightenment (freedom to use rational thought), America (life, liberty and the pursuit of happiness) were all based on bottom-up individuality and freedom.
+History has also proven that the greatest ages of humanity have all derived from liberty. The Athenian Democracy (freedom to choose one's rulers), The Renaissance, The Enlightenment (freedom to use rational thought), America (life, liberty and the pursuit of happiness) were all based on bottom-up free markets, individuality and freedom.
   
 ## Conclusions:
  - Liber will be a nation based on liberty, both on the economic and lifestyle aspects.
