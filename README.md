@@ -16,9 +16,9 @@ History has also proven however, that humanity's greatest golden ages are byprod
 ## On the Redistribution of Wealth
 At first, many countries implemented capitalist democracies with small welfare states. They believed they could "find a reasonable middle ground" between the left and the right.
 
-Now Democracy, by its own definition, is the rule of the majority.
-The majority, by its own definition, is not a successful or exceptional demographic. It's average, at best.
-**This means that the people who control your nation's Capitalism and Freedom (the average majority) has it in their rational self-interest to constantly push for more and more welfare, the exact thing that kills them.**
+Now Democracy (by its own definition) is the rule of the majority.
+The majority (by its own definition) is not a successful or exceptional demographic. It's average, at best.
+**This means that the people who control your nation's Capitalism and Freedom (the average majority) have it in their rational self-interest to constantly push for more and more welfare, the exact thing that kills them.**
 
 No matter how small the welfare state of a capitalist democracy, the powerful majority will eventually always push for it's expansion.
 This is what leads to ridiculous taxes. This is what leads to ridiculous government spending.
