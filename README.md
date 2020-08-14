@@ -10,8 +10,8 @@
 
 ## Introduction:
 
-History has proven time and time again that only authoritarianism can create the type of circumstances out of which the greatest of Human Suffering is born. Genocide, Slavery, Concentration Camps, Rape and Pointless Wars all stem from forceful manipulation and infrigement of individual liberty.
-History has also proven that the greatest ages of humanity have all derived from liberty. The Athenian Democracy (freedom to choose one's rulers), The Renaissance, The Enlightenment (freedom to use rational thought), America (life, liberty and the pursuit of happiness) were all based on bottom-up free markets, individuality and freedom.
+History has proven time and time again that only authoritarianism can create the type of circumstances out of which the greatest of Human Suffering is born. Genocide, Slavery, Concentration Camps, Rape and Pointless Wars all stem from forceful manipulation and infrigement upon individual liberty.
+It has also proven however, that humanity's greatest and golden ages are derive from liberty. The Athenian Democracy (freedom to choose one's rulers), The Renaissance, The Enlightenment (freedom to use rational thought), America (life, liberty and the pursuit of happiness) were all based on bottom-up free markets, individuality and freedom.
   
 ## Conclusions:
  - Liber will be a nation based on liberty, both on the economic and lifestyle aspects.
@@ -93,3 +93,17 @@ Therefore, only individuals with no criminal past will be allowed to move to Lib
 
 Morally and ethically Liber should legalize all drugs. However, this might present itself as an easy excuse for goverments to attack it.
 This should be taken into account when deciding on Liber's Location.
+
+## On the Redistribution of Wealth
+At first, many countries implemented capitalist democracies with small welfare states. They believed they could "find a reasonable middle ground" between the left and the right.
+
+Now Democracy, by its own definition, is the rule of the majority.
+The majority, by its own definition, is not a successful or exceptional demographic. It's average, at best.
+**This means that the people who control your nation's Capitalism and Freedom (the average majority) has it in their rational self-interest to constantly push for more and more welfare, the exact thing that kills them.**
+
+No matter how small the welfare state of a capitalist democracy, the powerful majority will eventually always push for it's expansion.
+This is what leads to ridiculous taxes. This is what leads to ridiculous government spending.
+
+> "The difference between a welfare state and a totalitarian state is a matter of time." - Ayn Rand
+
+**I believe that unless the redistribution of wealth is made to be constitutionally illegal, a nation's freedom shall only be temporary, never permanent.**
