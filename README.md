@@ -11,7 +11,7 @@
 ## Introduction:
 
 History has proven time and time again that only authoritarianism can create the type of circumstances out of which the greatest of Human Suffering is born. Genocide, Slavery, Concentration Camps, Rape and Pointless Wars all stem from forceful manipulation and infrigement upon individual liberty.
-It has also proven however, that humanity's greatest and golden ages are derive from liberty. The Athenian Democracy (freedom to choose one's rulers), The Renaissance, The Enlightenment (freedom to use rational thought), America (life, liberty and the pursuit of happiness) were all based on bottom-up free markets, individuality and freedom.
+It has also proven however, that humanity's greatest golden ages are byproducts of liberty. The Athenian Democracy (freedom to choose one's rulers), The Renaissance, The Enlightenment (freedom to use rational thought), America (life, liberty and the pursuit of happiness) were all based on bottom-up free markets, individuality and freedom.
 
 ## On the Redistribution of Wealth
 At first, many countries implemented capitalist democracies with small welfare states. They believed they could "find a reasonable middle ground" between the left and the right.
@@ -31,9 +31,9 @@ This is what leads to ridiculous taxes. This is what leads to ridiculous governm
 Lorem Ipsum.
   
 ## Conclusions:
- - Liber will be a nation based on liberty, both on the economic and lifestyle aspects.
+ - Liber will be a nation founded on individual liberty.
  - Liber will be governed by Laws, not people.
- - Liber will have two sets of laws:
+ - Liber will have a Hybrid Legal System, with two sets of laws:
   - The Constitution (permanent and unmodifiable)
   - The Legal Board (everchanging and modifiable).
   
@@ -67,20 +67,29 @@ Liber will possess a minimal goverment. It's only function will be to enforce th
 - Courts (guarantee and uphold each citizen's rights)
 
 ## Currency & Taxation:
-With the advent of Cryptocurrencies and Blockchain Technology, Liber will not need any official currency. There are P2P Cryptocurrency Payment Apps that will allow decentralized payments between individuals.
-However this will make taxation much harder, to due to decentralized and private nature of cryptocurrencies.
-So instead of a mandatory taxation system, Liber will simply attach each citizen's rights to his/her taxes.
-In order to have property rights, access to a fair trial, etc. One must pay taxes.
-This is the most fair and pragmatic way to solve the tax problem. It will also make the need for fiscal authority obsolete, further diminishing governamental needs, and consequently the amount of required taxes for citizenship.
-The free adoption of the entire cryptocurrency system will also allow Liber's residents to evolve as this space evolves.
-It will also eliminate the need for a national banking system, therefore eliminating a possible gateway for international money laundering.
-It will also better position the finances of Liber's residents in the international cyberspace.
+Currency and Taxation are major topics when creating a new society:
 
-Although Liber will not need any official currency, there wil need to be some sort of standard for taxation.
-The optimal solution would be to pick some cryptocurrency and make it a standard.
-So the price of citizenship could be 3 ETH per year, or 0.1 BTC per year.
-Also the payments would be made either to a governmental Bitcoin or Ethereum Address, which increase safety and transparency and decrease corruption.
-Need to think further about what standard Liber should use for it's taxes.
+### Currency:
+Previous Seasteading attempts have tried to implement their own currency (see Republic of Minerva). This is a huge obstacle. Not only do you need to find material and processes to manufacture the new currency, you will also have to make it valuable within the international economy. Nobody will want to join a nation where the official currency is worthless in the grand scheme of things.
+Happily, the arrival of Cryptocurrencies completely removes the need for a national currency.
+Not only do Cryptocurrencies allow decentralized and secure storage and transfer of value, they also exist within their own market of competition. Allowing Liber's citizens to transact in whatever currency they choose will allow the nation to evolve along with this technology. Liber's citizens will be free to constantly move to faster, safer and more capable cryptocurrencies, allowing free market competition to reward the best implementations, and placing Liber at the forefront of one of the world's most important technologies.
+The usage of Cryptocurrencies will also eliminate the need for a national banking system, along with all its complications (bigger goverment size in the financial sector, becoming a possible gateway for international money laundering, etc.)
+Lastly, the free adoption of Cryptocurrencies will also better position the finances of Liber's residents in the international cyberspace.
+There are already many companies, apps and wallets which allow easy P2P Cryptocurrency transfers (Revolut, Circle, BitPay, Coinbase Commerce, Metamask, etc.)
+
+### Taxation:
+The adoption of cryptocurrencies however, will make forced taxation much harder, due to their decentralized, secure and private nature.
+Therefore, instead of a mandatory taxation system, Liber will simply attach each individual's citizenship to his/her taxes.
+In order to have Constitutional Rights, one must hold citizenship. In order to attain citizenship, one must pay the Citizenship Tax.
+The Citizenship Tax will be the only form of taxation and will grant access to all Constitutional Rights.
+This is the simple, rational and pragmatic way to solve the tax problem.
+It will also make the need for fiscal authority obsolete, further diminishing governamental needs, and consequently the amount of required taxes for citizenship.
+
+Although Liber will not need any official currency, there will need to be some sort of standard for taxation.
+The optimal solution would be to pick some cryptocurrency and make it a standard. As the Citizenship Tax will be a renewable yearly contract, it's value (and the currency it's paid in) could be easily adjusted, as long as citizenship is equal to all individuals in a given year.
+For example, the Citizenship Tax could be 3 ETH for 2021 and 2 ETH for 2022 (as the value of Ether changes). Or instead of ETH, Liber could decide to tax Citizenship in BTC, LINK, XMR, etc.
+The payments will be made to a governmental cryptocurrency address, which increases safety, transparency and decreases corruption.
+*P.S. (Need to think further about what standard Liber should use for it's taxes.)*
 
 ## Main Previous Pitfalls
 There are many technologies like Seacreate and OTEC generators. They may seem like good options, but they are unproven or immature at best.
