@@ -14,8 +14,8 @@ History has proven time and time again that only authoritarianism can create the
 History has also proven however, that humanity's greatest golden ages are byproducts of liberty. The Athenian Democracy (freedom to choose one's rulers), The Renaissance, The Enlightenment (freedom to use rational thought), America (life, liberty and the pursuit of happiness) were all based on Individual Liberty.
 
 There are many supporters of Individual Liberty, but unfortunately they are drowned out admist economically blind socialists or dogmatic conservatives.
-It is pointless to try to reason with unreasonable individuals. For long we have tried to explain the value of true Liberty, to no avail.
-No amount of debate, arguments or reasoning will change their minds. The only thing that will change their minds is reality. A new reality, that will rise from better principles and show (not merely tell) the world about the true value of Liberty.
+It is pointless to try to reason with unreasonable individuals. For long we have tried to explain the value of true Liberty, to no avail. They "rationalize" every failure of Collectivism as a problem of execution, instead of recognizing the problem resides in their values.
+No amount of debate, argument or reasoning will change their minds. The only thing that will change their minds is reality. A new reality, that must rise from better principles and show (not merely tell) the world about the true value of Liberty.
 It is therefore imperative to found a new nation based on Individual Liberty.
 
 ## On the Redistribution of Wealth
