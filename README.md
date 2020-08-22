@@ -52,10 +52,14 @@ Also, didn't we just conclude that in a free society, protecting individuals fro
 If I don't pay my taxes, what right do I have to the protection of police officers or the effort of judges?  
 **Granting Rights through taxation is the only rational, pragmatic and fair way to maintain a state without fiscal force ("fair" given that the price of citizenship should be the same for all individuals, regardless of their wealth).**
 
-The implementation of this will be called the Citizenship Tax:
-- Only Citizens of Liber will have rights.
-- To attain citizenship, one needs only to pay the Citizenship Tax.
-- The Citizenship Tax will grant citizenship for 1 year.
+The implementation of this will be called the **Citizenship Tax**:
+- Only citizens of Liber shall have rights.
+- To attain citizenship, one only needs to pay the Citizenship Tax.
+- The Citizenship Tax shall be the only form of taxation, and include within itself only the necessary cost to support a minimal and essencial government.
+- The Citizenship Tax shall be available to all individuals.
+- The Citizenship Tax shall rant access to all Constitutional Rights.
+- The Citizenship Tax will grant citizenship for 1 year, and every individual is free to renew his citizenship.
+- Maybe a Visitor Tax could be implemented. It would grant rights for shorter periods of time.
 
 This would have several benefits:
 1. No Fiscal Authority (like an IRS) would be needed.
@@ -72,12 +76,11 @@ Cryptocurrencies also exist within their own market of competition. Allowing Lib
 Cryptocurrencies eliminate the need for a Central Banking system, along with all its complications (bigger government, becoming a possible gateway for international money laundering, etc.)
 Cryptocurrencies will also better position the finances of Liber's residents in the international cyberspace.
 There are already many companies, apps and wallets which allow easy P2P Cryptocurrency transfers (Revolut, Circle, BitPay, Coinbase Commerce, Metamask, etc.)
+Contrary to nations with mandatory taxation, Cryptocurrencies are much easier to adopt in a voluntary tax regime.
 
 ### Taxation:
 The adoption of cryptocurrencies however, will make forced taxation much harder, due to their decentralized, secure and private nature.
 Therefore, instead of a mandatory taxation system, Liber will simply attach each individual's citizenship to his/her taxes.
-In order to have Constitutional Rights, one must hold citizenship. In order to attain citizenship, one must pay the Citizenship Tax.
-The Citizenship Tax will be the only form of taxation and will grant access to all Constitutional Rights.
 
 Although Liber will not need any official currency, there will need to be some sort of standard for taxation.
 The optimal solution would be to pick some cryptocurrency and make it a standard. As the Citizenship Tax will be a renewable yearly contract, it's value (and the currency it's paid in) could be easily adjusted, as long as citizenship is equal to all individuals in a given year.
