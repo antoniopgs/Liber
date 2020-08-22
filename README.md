@@ -24,7 +24,7 @@ At first, many countries implemented capitalist democracies with small welfare s
 2. The majority (by its own definition) is not a successful or exceptional demographic. It's average, at best.
 3. **This means that the demographic who controls a nation's Capitalism and Freedom (the average majority) has it in its rational self-interest to constantly push for more and more welfare, the exact thing that kills them.**
 
-No matter how small the welfare state of a capitalist democracy, the powerful majority will eventually always push for itss expansion.
+No matter how small the welfare state of a capitalist democracy, the powerful majority will eventually always push for its expansion.
 This is what leads to ridiculous taxes. This is what leads to ridiculous government spending.
 
 > "The difference between a welfare state and a totalitarian state is a matter of time." - Ayn Rand
