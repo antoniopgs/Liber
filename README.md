@@ -59,12 +59,12 @@ The implementation of this will be called the **Citizenship Tax**:
 - The Citizenship Tax shall be available to all individuals.
 - The Citizenship Tax shall rant access to all Constitutional Rights.
 - The Citizenship Tax will grant citizenship for 1 year, and every individual is free to renew his citizenship.
-- Maybe a Visitor Tax could be implemented. It would grant rights for shorter periods of time.
+- Maybe a Visitor Tax could also be implemented. It would grant rights for shorter periods of time.
 
 This would have several benefits:
 1. No Fiscal Authority (like an IRS) would be needed.
 2. The Tax paying process would be simpler. The Citizenship Tax payment could be done directly from each citizen to a governmental blockchain address (more on this later).  
-3. **Because of benefits 1 and 2, the size of goverment would be drastically reduced. This means less money would be necessary to maintain it, which would reduce even further the amount of necessary taxation for one's rights.**
+3. **Because of benefits 1 and 2, the size of goverment would be drastically reduced. This means less money would be necessary to maintain it, which would reduce even further the cost of the Citizenship Tax.**
 
 ## Currency:
 Previous Seasteading attempts have tried to implement their own currency (see Republic of Minerva).  
@@ -76,7 +76,7 @@ Cryptocurrencies also exist within their own market of competition. Allowing Lib
 Cryptocurrencies eliminate the need for a Central Banking system, along with all its complications (bigger government, becoming a possible gateway for international money laundering, etc.)
 Cryptocurrencies will also better position the finances of Liber's residents in the international cyberspace.
 There are already many companies, apps and wallets which allow easy P2P Cryptocurrency transfers (Revolut, Circle, BitPay, Coinbase Commerce, Metamask, etc.)
-Contrary to nations with mandatory taxation, Cryptocurrencies are much easier to adopt in a voluntary tax regime.
+Also, in Contrary to nations with mandatory taxation, Cryptocurrencies are much easier to adopt in a voluntary tax regime.
 
 ### Taxation:
 The adoption of cryptocurrencies however, will make forced taxation much harder, due to their decentralized, secure and private nature.
