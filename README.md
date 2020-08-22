@@ -32,6 +32,7 @@ This is what leads to ridiculous taxes. This is what leads to ridiculous governm
 **I believe that unless the redistribution of wealth is made to be constitutionally illegal, a nation's freedom shall only be temporary, never permanent.**
 
 *"How can you maintain a state without redistribution of wealth? No society would survive without taxes."*
+
 This question leads to the next topic...
 
 ## Taxes:
