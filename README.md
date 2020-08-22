@@ -14,8 +14,8 @@ History has proven time and time again that only authoritarianism can create the
 History has also proven however, that humanity's greatest golden ages are byproducts of liberty. The Athenian Democracy (freedom to choose one's rulers), The Renaissance, The Enlightenment (freedom to use rational thought), America (life, liberty and the pursuit of happiness) were all based on Individual Liberty.
 
 There are many supporters of Individual Liberty, but unfortunately they are drowned out admist economically blind socialists or dogmatic conservatives.
-It is pointless to try to reason with unreasonable individuals. For long we have tried to explain the value of true Liberty, to no avail. They "rationalize" every failure of Collectivism as a problem of execution, instead of recognizing the problem resides in their values.
-No amount of debate, argument or reasoning will change their minds. The only thing that will change their minds is reality. A new reality, that must rise from better principles and show (not merely tell) the world about the true value of Liberty.
+It is pointless to try to reason with unreasonable individuals.  For long we have tried to explain the value of true Liberty, to no avail. They "rationalize" every failure of Collectivism as a problem of execution, instead of recognizing the problem resides in their values.
+No amount of debate, argument or reasoning will change their minds.  The only thing that will change their minds is reality. A new reality, that must rise from better principles and show (not merely tell) the world about the true value of Liberty.
 It is therefore imperative to found a new nation based on Individual Liberty.
 
 ## On the Redistribution of Wealth
@@ -24,8 +24,7 @@ At first, many countries implemented capitalist democracies with small welfare s
 2. The majority (by its own definition) is not a successful or exceptional demographic. It's average, at best.
 3. **This means that the demographic who controls a nation's Capitalism and Freedom (the average majority) has it in its rational self-interest to constantly vote for more and more welfare, the exact thing that kills them.**
 
-No matter how small the welfare state of a capitalist democracy, the powerful majority will eventually always push for its expansion.
-This is what leads to ridiculous taxes. This is what leads to ridiculous government spending.
+No matter how small the welfare state of a capitalist democracy, the powerful majority will eventually always push for its expansion.  This is what leads to ridiculous taxes. This is what leads to ridiculous government spending.
 
 > "The difference between a welfare state and a totalitarian state is a matter of time." - Ayn Rand
 
@@ -48,9 +47,9 @@ However, if through tax payments, you gave people the ultimate incentive, they w
 *"What is the ultimate incentive?"*
 
 Their rights.
-If you needed to pay taxes to have freedom of speech, the right to a fair trial, access to the police, and the right to own property, wouldn't you pay them?
-Also, didn't we just conclude that in a free society, protecting individuals from force should be the only role of government?
-If I don't pay my taxes, what right do I have to the protection of police officers or the effort of judges?
+If you needed to pay taxes to have freedom of speech, the right to a fair trial, access to the police, and the right to own property, wouldn't you pay them?  
+Also, didn't we just conclude that in a free society, protecting individuals from force should be the only role of government?  
+If I don't pay my taxes, what right do I have to the protection of police officers or the effort of judges?  
 **Granting Rights through taxation is the only rational, pragmatic and fair way to maintain a state without fiscal force ("fair" given that the price of citizenship should be the same for all individuals, regardless of their wealth).**
   
 ## Conclusions:
