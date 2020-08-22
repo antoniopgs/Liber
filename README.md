@@ -19,20 +19,35 @@ No amount of debate, arguments or reasoning will change their minds. The only th
 It is therefore imperative to found a new nation based on Individual Liberty.
 
 ## On the Redistribution of Wealth
-At first, many countries implemented capitalist democracies with small welfare states. They believed they could "find a reasonable middle ground" between the left and the right.
-Now Democracy (by its own definition) is the rule of the majority.
-The majority (by its own definition) is not a successful or exceptional demographic. It's average, at best.
-**This means that the people who control your nation's Capitalism and Freedom (the average majority) have it in their rational self-interest to constantly push for more and more welfare, the exact thing that kills them.**
+At first, many countries implemented capitalist democracies with small welfare states. They believed they could "find a reasonable middle ground" between the left and the right:
+1. Now Democracy (by its own definition) is the rule of the majority.
+2. The majority (by its own definition) is not a successful or exceptional demographic. It's average, at best.
+3. **This means that the people who control your nation's Capitalism and Freedom (the average majority) have it in their rational self-interest to constantly push for more and more welfare, the exact thing that kills them.**
 
-No matter how small the welfare state of a capitalist democracy, the powerful majority will eventually always push for it's expansion.
+No matter how small the welfare state of a capitalist democracy, the powerful majority will eventually always push for itss expansion.
 This is what leads to ridiculous taxes. This is what leads to ridiculous government spending.
 
 > "The difference between a welfare state and a totalitarian state is a matter of time." - Ayn Rand
 
 **I believe that unless the redistribution of wealth is made to be constitutionally illegal, a nation's freedom shall only be temporary, never permanent.**
 
-## Laws vs Rulers
-Lorem Ipsum.
+*"How can you maintain a state without redistribution of wealth? No society would survive without taxes."*
+This question leads to the next topic...
+
+## Taxes:
+*"How can you maintain a state without redistribution of wealth? No society would survive without taxes."*
+It's actually quite simple. You make taxes optional.
+
+*Optional taxes would never work. Everyone would just choose not to pay them.*
+That's almost true. Yes, if given the option almost nobody would pay for social security, public healthcare, etc.
+However, if through tax payments, you gave people the ultimate incentive, they would most certainly pay them.
+
+*"What is the ultimate incentive?"*
+Their rights.
+If you needed to pay taxes to have freedom of speech, the right to a fair trial, access to the police, and the right to own property wouldn't you pay them?
+Also, didn't we just conclude that in a truly free society, that should be the only governmental role? To protect individuals from force?
+If I don't pay my taxes, what right do I have to the protection of police officers or the labor or judges?
+**Granting Rights through taxation is the only rational, pragmatic and fair way to maintain a state without fiscal force ("fair" given that the price of citizenship should be the same for all individuals, regardless of their wealth).**
   
 ## Conclusions:
  - Liber will be a nation founded on individual liberty.
@@ -125,3 +140,6 @@ Therefore, only individuals with no criminal past will be allowed to move to Lib
 
 Morally and ethically Liber should legalize all drugs. However, this might present itself as an easy excuse for goverments to attack it.
 This should be taken into account when deciding on Liber's Location.
+
+## Laws vs Rulers
+Lorem Ipsum.
