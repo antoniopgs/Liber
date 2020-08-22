@@ -46,7 +46,7 @@ However, if through tax payments, you gave people the ultimate incentive, they w
 
 *"What is the ultimate incentive?"*
 
-Their rights.
+Their rights.  
 If you needed to pay taxes to have freedom of speech, the right to a fair trial, access to the police, and the right to own property, wouldn't you pay them?  
 Also, didn't we just conclude that in a free society, protecting individuals from force should be the only role of government?  
 If I don't pay my taxes, what right do I have to the protection of police officers or the effort of judges?  
