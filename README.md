@@ -40,7 +40,7 @@ This question leads to the next topic...
 
 It's actually quite simple. You make taxes optional.
 
-*Optional taxes would never work. Everyone would just choose not to pay them.*
+*"Optional taxes would never work. Everyone would just choose not to pay them."*
 
 That's almost true. Yes, if given the option almost nobody would pay for social security, public healthcare, etc.
 However, if through tax payments, you gave people the ultimate incentive, they would most certainly pay them.
@@ -48,8 +48,10 @@ However, if through tax payments, you gave people the ultimate incentive, they w
 *"What is the ultimate incentive?"*
 
 Their rights.
-If you needed to pay taxes to have freedom of speech, the right to a fair trial, access to the police, and the right to own property wouldn't you pay them?
+If you needed to pay taxes to have freedom of speech, the right to a fair trial, access to the police, and the right to own property, wouldn't you pay them?
+
 Also, didn't we just conclude that in a truly free society, that should be the only governmental role? To protect individuals from force?
+
 If I don't pay my taxes, what right do I have to the protection of police officers or the labor or judges?
 **Granting Rights through taxation is the only rational, pragmatic and fair way to maintain a state without fiscal force ("fair" given that the price of citizenship should be the same for all individuals, regardless of their wealth).**
   
