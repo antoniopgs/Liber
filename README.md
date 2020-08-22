@@ -22,7 +22,7 @@ It is therefore imperative to found a new nation based on Individual Liberty.
 At first, many countries implemented capitalist democracies with small welfare states. They believed they could "find a reasonable middle ground" between the left and the right:
 1. Now Democracy (by its own definition) is the rule of the majority.
 2. The majority (by its own definition) is not a successful or exceptional demographic. It's average, at best.
-3. **This means that the demographic who controls a nation's Capitalism and Freedom (the average majority) has it in its rational self-interest to constantly push for more and more welfare, the exact thing that kills them.**
+3. **This means that the demographic who controls a nation's Capitalism and Freedom (the average majority) has it in its rational self-interest to constantly vote for more and more welfare, the exact thing that kills them.**
 
 No matter how small the welfare state of a capitalist democracy, the powerful majority will eventually always push for its expansion.
 This is what leads to ridiculous taxes. This is what leads to ridiculous government spending.
