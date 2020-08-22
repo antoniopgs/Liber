@@ -64,7 +64,7 @@ The implementation of this will be called the **Citizenship Tax**:
 This would have several benefits:
 1. No Fiscal Authority (like an IRS) would be needed.
 2. The Tax paying process would be simpler. The Citizenship Tax payment could be done directly from each citizen to a governmental blockchain address (more on this later).  
-**3. Because of benefits 1 and 2, the size of goverment would be drastically reduced. This means less money would be necessary to maintain it, which would reduce even further the amount of necessary taxation for one's rights.**
+3. **Because of benefits 1 and 2, the size of goverment would be drastically reduced. This means less money would be necessary to maintain it, which would reduce even further the amount of necessary taxation for one's rights.**
 
 ## Currency:
 Previous Seasteading attempts have tried to implement their own currency (see Republic of Minerva).  
