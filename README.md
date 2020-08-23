@@ -86,16 +86,30 @@ The payments will be made to a governmental cryptocurrency address, which increa
 ______________________________________________________________________________________
   
 ## A Hybrid Legal System:
-Many free nations have evolved to authoritarian regimes, through the progressive destruction of their constitution/legal code.
-Therefore, the Political Ideology of Conservatism appeared. Conservatives wish to preserve laws, values and tradition, for the sake of protecting freedom.
-While they come from a good place, a law should not be preseved merely for how long it's been around. It should be preserved only on the basis of it's value.
-However, this opens up a country's law to change, and therefore to the threat of legal decay.
-Following Nassim Taleb's notion of Antifragility and the Barbell Strategy, one will want to protect Liber's downside (and make sure individuals will never lose their rights), but also leaving Liber open to upside (let citizens vote on greyer areas of the NAP principle like overfishing, carbon emissions, etc.)
-The optimal solution is to have two legal documents:
-  - One of them immutable and everlasting, that forever ensure's the protection of each individual's rights (The Constitution).
-  - One of them mutable, where citizens can vote on issues like overfishing, carbon emissions, etc (The Legal Board).
+Throughout History, many free nations have evolved to authoritarian regimes, through the progressive destruction of their constitution/legal code.
+Therefore, the Political Ideology of Conservatism was born. Conservatives wish to preserve laws, values and tradition, for the sake of protecting freedom.
+While they come from a good place, a law should not be preseved merely for how long it's been around. It should be preserved only on the basis of it's inherent value.
 
-## Constitution:
+This leads to a dillema:
+- On one hand, making the law unchangeable will protect constitutional freedoms but it also limits a nation's ability to adapt and evolve.
+- On the other hand, allowing the law to change allows a nation to adapt and evolve but it also opens the door for the destruction of constitutional freedoms.
+
+How do we protect consitutional freedoms (eliminate the downside), while also enabling progress via tinkering and trial and error (allow the upside)?
+The answer is in Nassim Taleb's notion of Antifragility and in his Barbell Strategy.
+
+Taleb defines the Antifragile as that which improves from stressors, as opposed to Fragile things (who are worsened by stressors), or even Robust things (who are not affected by stressors).
+One can easily think of Fragile or Robust things, like a Wine Glass or a Piece of Iron, respectively.
+It is harder to find examples of Antifragility, as they are more often found in complex systems (like the overall industry of Aviation, who improves when one of its competitors makes a mistake).
+To create an Antifragile Investment Strategy, Taleb developed the Barbell Strategy where:
+- 90% of investments are very safe (to eliminate the downside)
+- 10% of investments are very risky (to allow for upside)
+
+One could take inspiration from this philosophy to protect Liber's downside (and make sure individuals will never lose their rights), but also leaving Liber open to upside (let citizens vote on greyer areas of the Non Agression Principle like overfishing, carbon emission costs, etc.)
+Therefore, the optimal solution will be to have two legal documents:
+  - One of them immutable and everlasting, to forever ensure the protection of each individual's rights (The Constitution).
+  - One of them mutable, where citizens can vote on issues like overfishing and carbon emission costs (The Legal Board).
+
+### The Constitution:
 1. This consitution shall forever remain unchanged.
 2. All amendments hereby presented will only be granted to citizens. Only citizens of Liber will have constitutional rights.
 3. An individual shall only attain citizenship through a yearly voluntary contract established with the goverment of Liber. Through this contract, an individual can pay the goverment of Liber, and in return attain constitutional rights.
@@ -106,6 +120,9 @@ The optimal solution is to have two legal documents:
 8. The right of each citizen to own and totally control his property shall not be infringed upon.
 9. No citizen, group, entity or organization shall receive any form of payment/bailout/government funding.
 10. No citizen shall be imprisoned or penalized for anything other than infringing upon another citizen's rights.
+
+### The Legal Board:
+Lorem Ipsum.
 
 ## Structure:
 Liber will possess a minimal goverment. It's only function will be to enforce the Non Agression Principle protection for all it's citizens (tax paying individuals). To enforce the NAP, the following institutions will be needed:
