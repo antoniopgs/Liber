@@ -70,14 +70,12 @@ This would have several benefits:
 Previous Seasteading attempts have tried to implement their own currency (see Republic of Minerva).  
 This is a huge obstacle. Not only do you need to find the material and processes needed to manufacture the new currency, you will also have to somehow make it valuable within the international economy. Nobody will want to join a nation whose official currency is worthless in the grand scheme of things.
 
-Luckily, the arrival of Cryptocurrencies completely removes the need for a national currency.
-Cryptocurrencies empower individuals to store and transfer value in a completely decentralized and secure manner.
-Cryptocurrencies also exist within their own market of competition. Allowing Liber's citizens to transact in whatever currency they choose will allow the nation to evolve along with this technology. Liber's citizens will be able to constantly move to faster, safer and more capable cryptocurrencies, allowing free market competition to reward the best implementations, and placing Liber at the forefront of one of the world's most important technologies.
-Cryptocurrencies eliminate the need for a Central Banking system, along with all its complications (bigger government, becoming a possible gateway for international money laundering, etc.)
-Cryptocurrencies will also better position the finances of Liber's residents in the international cyberspace.
-There are already many companies, apps and wallets which allow easy P2P Cryptocurrency transfers (Revolut, Circle, BitPay, Coinbase Commerce, Metamask, etc.)
-Also, in Contrary to nations with mandatory taxation, Cryptocurrencies are much easier to adopt in a voluntary tax regime.
-The adoption of Cryptocurrencies would make forced taxation much harder, due to their decentralized, secure and private nature, which is yet another reason to adtop voluntary taxation.
+Luckily, Cryptocurrencies have several advantages over National Currency, completely removing the need for the latter:
+- Cryptocurrencies empower individuals to store and transfer value in a decentralized, private and secure manner. This would make forced taxation much harder, further protecting one from financial tyranny (yet another reason to adopt voluntary taxation).
+- Cryptocurrencies exist within their own competitive market. Allowing Liber's citizens to transact in whatever currency they choose will allow them to also evolve along with this technology. Liber's citizens will be able to constantly move to faster, safer and more capable cryptocurrencies, allowing free market competition to reward the best implementations, and placing Liber at the forefront of one of the world's most important technologies.
+- Cryptocurrencies eliminate the need for a Central Banking system, along with all of its complications (bigger government, becoming a possible gateway for international money laundering, etc.)
+- Cryptocurrencies will better position the finances of Liber's residents in the international cyberspace.
+- There are already many companies, apps and wallets which allow easy P2P Cryptocurrency transfers (Revolut, Circle, BitPay, Coinbase Commerce, Metamask, etc.)
 
 Although Liber will not need any official currency, there will need to be some sort of standard for taxation.
 The optimal solution would be to pick some cryptocurrency and make it a standard. As the Citizenship Tax will be a renewable yearly contract, it's value (and the currency it's paid in) could be easily adjusted, as long as citizenship is equal to all individuals in a given year.
