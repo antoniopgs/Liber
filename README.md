@@ -77,16 +77,13 @@ Cryptocurrencies eliminate the need for a Central Banking system, along with all
 Cryptocurrencies will also better position the finances of Liber's residents in the international cyberspace.
 There are already many companies, apps and wallets which allow easy P2P Cryptocurrency transfers (Revolut, Circle, BitPay, Coinbase Commerce, Metamask, etc.)
 Also, in Contrary to nations with mandatory taxation, Cryptocurrencies are much easier to adopt in a voluntary tax regime.
-
-### Taxation:
-The adoption of cryptocurrencies however, will make forced taxation much harder, due to their decentralized, secure and private nature.
-Therefore, instead of a mandatory taxation system, Liber will simply attach each individual's citizenship to his/her taxes.
+The adoption of Cryptocurrencies would make forced taxation much harder, due to their decentralized, secure and private nature, which is yet another reason to adtop voluntary taxation.
 
 Although Liber will not need any official currency, there will need to be some sort of standard for taxation.
 The optimal solution would be to pick some cryptocurrency and make it a standard. As the Citizenship Tax will be a renewable yearly contract, it's value (and the currency it's paid in) could be easily adjusted, as long as citizenship is equal to all individuals in a given year.
 For example, the Citizenship Tax could be 3 ETH for 2021 and 2 ETH for 2022 (as the value of Ether changes). Or instead of ETH, Liber could decide to tax Citizenship in BTC, LINK, XMR, etc.
 The payments will be made to a governmental cryptocurrency address, which increases safety, transparency and decreases corruption.
-*P.S. (Need to think further about what standard Liber should use for it's taxes.)*
+*(Need to think further about what standard Liber should use for it's taxes.)*
 
 _______________________________________________________________
   
