@@ -68,23 +68,23 @@ This would have several benefits:
 
 ## Currency:
 Previous Seasteading attempts have tried to implement their own currency (see Republic of Minerva).  
-This is a huge obstacle. Not only do you need to find the material and processes needed to manufacture the new currency, you will also have to somehow make it valuable within the international economy. Nobody will want to join a nation whose official currency is worthless in the grand scheme of things.
+This is a huge obstacle. Not only do you need to find the material and processes needed to manufacture the new currency, you will also have to somehow make it valuable within the international economy. Nobody will want to join a nation whose official currency is worthless in the global economy.
 
 Luckily, Cryptocurrencies have several advantages over National Currency, completely removing the need for the latter:
 - Cryptocurrencies empower individuals to store and transfer value in a decentralized, private and secure manner. This would make forced taxation much harder, further protecting one from financial tyranny (yet another reason to adopt voluntary taxation).
 - Cryptocurrencies exist within their own competitive market. Allowing Liber's citizens to transact in whatever currency they choose will allow them to also evolve along with this technology. Liber's citizens will be able to constantly move to faster, safer and more capable cryptocurrencies, allowing free market competition to reward the best implementations, and placing Liber at the forefront of one of the world's most important technologies.
 - Cryptocurrencies eliminate the need for a Central Banking system, along with all of its complications (bigger government, becoming a possible gateway for international money laundering, etc.)
 - Cryptocurrencies will better position the finances of Liber's residents in the international cyberspace.
-- There are already many companies, apps and wallets which allow easy P2P Cryptocurrency transfers (Revolut, Circle, BitPay, Coinbase Commerce, Metamask, etc.)
+- There are already many companies, apps and wallets ready to allow easy P2P Cryptocurrency transfers (Revolut, Circle, BitPay, Coinbase Commerce, Metamask, etc.)
 
 Although Liber will not need any official currency, there will need to be some sort of standard for taxation.
-The optimal solution would be to pick some cryptocurrency and make it a standard. As the Citizenship Tax will be a renewable yearly contract, it's value (and the currency it's paid in) could be easily adjusted, as long as citizenship is equal to all individuals in a given year.
+The optimal solution would be to declare a certain Cryptocurrency as a standard for the Citizenship Tax. As the Citizenship Tax will be a renewable yearly contract, it's value (and the currency it's paid in) could be easily adjusted, as long as citizenship is equal to all individuals in a given year.
 For example, the Citizenship Tax could be 3 ETH for 2021 and 2 ETH for 2022 (as the value of Ether changes). Or instead of ETH, Liber could decide to tax Citizenship in BTC, LINK, XMR, etc.
-The payments will be made to a governmental cryptocurrency address, which increases safety, transparency and decreases corruption.
+The payments will be made to a governmental cryptocurrency address, which increases safety and transparency, while also decreasing corruption.
 *(Need to think further about what standard Liber should use for it's taxes.)*
 
-_______________________________________________________________
-  
+______________________________________________________________________________________
+
 ## Conclusions:
  - Liber will be a nation founded on individual liberty.
  - Liber will be governed by Laws, not people.
