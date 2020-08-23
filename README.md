@@ -84,13 +84,6 @@ The payments will be made to a governmental cryptocurrency address, which increa
 *(Need to think further about what standard Liber should use for it's taxes.)*
 
 ______________________________________________________________________________________
-
-## Conclusions:
- - Liber will be a nation founded on individual liberty.
- - Liber will be governed by Laws, not people.
- - Liber will have a Hybrid Legal System, with two sets of laws:
-  - The Constitution (permanent and unmodifiable)
-  - The Legal Board (everchanging and modifiable).
   
 ## A Hybrid Legal System:
 Many free nations have evolved to authoritarian regimes, through the progressive destruction of their constitution/legal code.
@@ -154,3 +147,10 @@ This should be taken into account when deciding on Liber's Location.
 
 ## Laws vs Rulers
 Lorem Ipsum.
+
+## Conclusions:
+ - Liber will be a nation founded on individual liberty.
+ - Liber will be governed by Laws, not people.
+ - Liber will have a Hybrid Legal System, with two sets of laws:
+  - The Constitution (permanent and unmodifiable)
+  - The Legal Board (everchanging and modifiable).
