@@ -77,10 +77,10 @@ Luckily, Cryptocurrencies have several advantages over National Currency, comple
 - Cryptocurrencies will better position the finances of Liber's residents in the international cyberspace.
 - There are already many companies, apps and wallets ready to allow easy P2P Cryptocurrency transfers (Revolut, Circle, BitPay, Coinbase Commerce, Metamask, etc.)
 
-Although Liber will not need any official currency, there will need to be some sort of standard for taxation.
-The optimal solution would be to declare a certain Cryptocurrency as a standard for the Citizenship Tax. As the Citizenship Tax will be a renewable yearly contract, it's value (and the currency it's paid in) could be easily adjusted, as long as citizenship is equal to all individuals in a given year.
-For example, the Citizenship Tax could be 3 ETH for 2021 and 2 ETH for 2022 (as the value of Ether changes). Or instead of ETH, Liber could decide to tax Citizenship in BTC, LINK, XMR, etc.
-The payments will be made to a governmental cryptocurrency address, which increases safety and transparency, while also decreasing corruption.
+Although Liber will not need any official currency, there will need to be some sort of standard for taxation.  
+The optimal solution would be to declare a certain Cryptocurrency as a standard for the Citizenship Tax. As the Citizenship Tax will be a renewable yearly contract, it's value (and the currency it's paid in) could be easily adjusted, as long as citizenship is equal to all individuals in a given year.  
+For example, the Citizenship Tax could be 3 ETH for 2021 and 2 ETH for 2022 (as the value of Ether changes). Or instead of ETH, Liber could decide to tax Citizenship in BTC, LINK, XMR, etc.  
+The payments will be made to a governmental cryptocurrency address, which increases safety and transparency, while also decreasing corruption.  
 *(Need to think further about what standard Liber should use for it's taxes.)*
 
 ______________________________________________________________________________________
