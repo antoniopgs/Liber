@@ -111,21 +111,24 @@ Therefore, the optimal solution will be to have two legal documents:
 
 ### The Constitution:
 1. This consitution shall forever remain unchanged.
-2. All amendments hereby presented will only be granted to citizens. Only citizens of Liber will have constitutional rights.
+2. All amendments hereby presented will only be granted to citizens. Only citizens of Liber shall have constitutional rights.
 3. An individual shall only attain citizenship through a yearly voluntary contract established with the goverment of Liber. Through this contract, an individual can pay the goverment of Liber, and in return attain constitutional rights.
 4. The price of citizenship may change over time, but if it does, it must change equally for all citizens. All citizens must pay the same price for citizenship on a given year, regardless of their wealth.
-5. No citizen shall be forced to pay another individual, group, entity, organization or the government. There shall never be Government enforced Redistribution of Wealth.
+5. No citizen shall be forced to pay another individual, group, entity, organization or the government. There shall never be forced Redistribution of Wealth.
 6. There shall be no infringement upon a citizen's freedom of speech, religion, peaceful assembly or petition to the government.
 7. The right of each citizen to keep and bear arms shall not be infringed upon.
 8. The right of each citizen to own and totally control his property shall not be infringed upon.
 9. No citizen, group, entity or organization shall receive any form of payment/bailout/government funding.
 10. No citizen shall be imprisoned or penalized for anything other than infringing upon another citizen's rights.
+*(Will refine this, just a first sketch...)*
 
 ### The Legal Board:
-Lorem Ipsum.
+- In the year of 2021, Liber's citizens voted that the carbon emmision costs will be X per CO2 ton.
+- In the year of 2021, Liber's citizens outlawed fishing over X tons of fish Y over the course of the year.
+*(Will refine this, just a first sketch...)*
 
 ## Structure:
-Liber will possess a minimal goverment. It's only function will be to enforce the Non Agression Principle protection for all it's citizens (tax paying individuals). To enforce the NAP, the following institutions will be needed:
+Liber will possess a minimal goverment. It's only function will be to enforce the Non Agression Principle protection for all it's citizens (Citizenship Contract paying individuals). To enforce the NAP, the following institutions will be needed:
 - Military (protect citizens from foreign force)
 - Police (protect citizens from other individuals)
 - Prisons (protect and isolate citizens from individuals incapable of following the NAP)
@@ -135,9 +138,9 @@ Liber will possess a minimal goverment. It's only function will be to enforce th
 There are many technologies like Seacreate and OTEC generators. They may seem like good options, but they are unproven or immature at best.
 It will be better to found Liber with simpler, more proven technologies, and let Liber's freedom generate these new ideas with time.
 Unless the process is simplified, no private funding will ever be received. Better to start small and grow, than to dream too big and fail.
-By reading Patri Freidman's Practical Guide to Seasteading, one can conclude that the main reason for failure are:
+By reading Patri Freidman's Practical Guide to Seasteading, one can conclude that the main reasons for failure are:
  - Unrealistic Ambitions and Over-Complication.
- - Bad Location choice
+ - Bad Location Choice
  
 ## Location
 - Stability (Calm Waters, Low Winds, No Hurricanes/Tornadoes/Cyclones/Typhoons)
@@ -153,6 +156,8 @@ In previous attempts, seasteads were placed very close to territorial waters. On
 The options are North Atlantic, South Atlantic, North Pacific, South Pacific and the southern Indian Ocean.
 The North and South Pacific are not protected enough from China, the southern indian isn't protected enough from piracy and it's closer to countries who previously stifled seasteading attempts. The South Atlantic could be advantageous due to the proximity to drug cartels, but these are unpredictable.
 The best location will therefore be the North Atlantic Subtropical High. In the heart of western civilization, between The United States of America and Western Europe, this will place Liber in calm waters, good weather, away from piracy, away from major authoritarian regimes and in the heart of important international commerce routes.
+
+----- UNDER CONSTRUCTION -----
 
 ## Potential Threats Liber Might Pose
 Liber (by its own nature) will obviously present a threat to politicians, bureaucrats and authoritarian governments.
