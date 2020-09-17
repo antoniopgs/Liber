@@ -81,7 +81,7 @@ Although Liber will not need any official currency, there will need to be some s
 The optimal solution would be to declare a certain asset as a standard for the Citizenship Contract. As the Citizenship Contract would be renewed yearly, it's value (and the currency it's paid in) could be easily adjusted, as long as citizenship price is equal to all individuals in a given year.  
 For example, the Citizenship Contract could be 3 ETH for 2021 and 2 ETH for 2022 (as the value of Ether changes). Or instead of ETH, Liber could still decide to tax Citizenship in dollars or euros, but paid through Bitcoin.
 The payments will be made to a governmental cryptocurrency address, which increases safety and transparency, decreasing corruption.  
-*(Need to think further about what standard Liber should use for it's taxes.)*
+*(Need to think further about what standard Liber should use for its taxes.)*
 
 ______________________________________________________________________________________
   
@@ -215,8 +215,6 @@ Compared to the South Atlantic (which is near places like Brazil and Western Afr
 ***The North Atlantic High has Stable Waters, Good Weather, Food, Safety and Relevance. It is the perfect womb for the new world.***
 
 ---------------------------------------- UNDER CONSTRUCTION ----------------------------------------
-Next Step: Talk with companies like Ocean Builders and figure out how to deploy their homes in the high seas. Assess costs, timelines, etc.
-
 
 ## Potential Threats Liber Might Pose
 Liber (by its own nature) will obviously present a threat to politicians, bureaucrats and authoritarian governments.
@@ -235,6 +233,8 @@ Lorem Ipsum.
  - Liber will have a Hybrid Legal System, with two sets of laws:
   - The Constitution (permanent and unmodifiable)
   - The Legal Board (everchanging and modifiable).
+  
+Next Steps: Show this to Joe and Patri. Engage with the Objectivist and Minarchist Communities and turn this into a worldwide document. Talk with companies like Ocean Builders and figure out how to deploy their homes in the high seas. Assess costs, timelines, etc. Evaluate interest from spearfishermen and engineers.
   
 Other thoughts:
  - To bundle or not bundle taxes? Should citizens have the option to only pay for courts, for instance? Probably not, but will need to think further on this?
