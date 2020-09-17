@@ -169,6 +169,7 @@ Another key element that will help to attract businesses and invidivuals will be
 - Weather (Pleasant, attractive, sunny weather that will also help Energetic Self Sufficiency - Solar)
 - Food (Plentiful, warm waters. Seastead infrastructure will also serve as reef and increase amount of fish)
 - Safety (Away from Piracy and Authoritarian Governments)
+- Relevance (Close to major trade routes)
 
 Rough waters are mostly caused by transversal winds.  
 In contrast, the calmest and most stable waters are found in the areas where air converges (and moves up) or diverges (and moves down).
@@ -179,14 +180,21 @@ These can be found on places like The Doldrums, Horse Latitudes, and Sub-Polar L
 First, we exclude the Sub-Polar Low Pressure Belts, as they are far too cold. We are left with the Doldrums and the Horse Latitudes.
 
 The main difference between the Doldrums and the Horse Latitudes is the atmospheric humidity.
-In the Doldrums, the climate is far more prone to rain, storms and the like; whereas in the Horse Latitudes the air is dryer. This makes the high temperatures much more pleasant, and also creates clear skies, boosting the usability of Solar Energy.
+Compared to the Doldrums, the Horse Latitudes have a drier atmosphere, which causes more a pleasant temperature, less clouds, higher sun exposure (greater potencial for solar) and fewer storms, tornadoes and the like.
 
 We are now left to choose between the Northern or Southern Substropical High Pressure Belt, as shown below:
 ![Image of Atmospheric Circulation](/horse_latitudes.jpg)
 
+Both options already give us Stable Waters with Good Weather and Strong Biodiversity.
+The next selections will be based on Safety and Relevance.
 
-Compared to the Doldrums, the Horse Latitudes have more pleasant temperature, drier air, less clouds, higher sun exposure (greater potencial for solar), and less prevalence for storms, tornadoes and the like.
-The ideal location for Liber will therefore be in the Horse Latitudes or Subtropical Highs.
+The natural enemies of Liber will be Collectivist Nations with Authoritarian Governments. The first that come to mind are China and Russia.
+Therefore, placing Liber in the Pacific Ocean is a risky move. One could argue that it could be placed closer to California, but it's a collectivist state, and who knows what may happen to the nation's leadership in the coming decades.
+
+The next to be eliminated is the Indian Ocean. Although it is not as easily accesible to China or Russia, it is still surronded by non trustworthy nations (like Thailand, who already blocked a previous Seasteading Attempt). Piracy is also much more prevalent in the Indian Ocean.
+
+This leaves us with the Atlantic Ocean
+
 In previous attempts, seasteads were placed very close to territorial waters. On one hand, this makes infrastucture transport and commerce easier. But it also means the higher likelihood that any given nation will interfere and claim Liber as it's sovereignty. Therefore it will be better to be far way, in deep international waters.
 The options are North Atlantic, South Atlantic, North Pacific, South Pacific and the southern Indian Ocean.
 The North and South Pacific are not protected enough from China, the southern indian isn't protected enough from piracy and it's closer to countries who previously stifled seasteading attempts. The South Atlantic could be advantageous due to the proximity to drug cartels, but these are unpredictable.
