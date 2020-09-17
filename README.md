@@ -167,11 +167,15 @@ The time is now.
 Another key element that will help to attract businesses and invidivuals will be location. Liber will need:
 - Stability (Calm Waters, Low Winds, No Hurricanes/Tornadoes/Cyclones/Typhoons)
 - Weather (Pleasant, attractive, sunny weather that will also help Energetic Self Sufficiency - Solar)
-- Food (Warm waters. Seastead infrastructure will also serve as reef and increase amount of fish)
+- Food (Plentiful, warm waters. Seastead infrastructure will also serve as reef and increase amount of fish)
 - Safety (Away from Piracy and Authoritarian Governments)
 
+Rough waters are mostly caused by transversal winds, whereas the calmest and most stable waters are found in the areas where air moves up or down, instead of across the surface.
+These can be found on places like The Doldrums and the Horse Latitudes, as shown below:
+![Image of Atmospheric Circulation](/atmospheric_circulation.png)
 
-These can be found on The Doldrums or on the Horse Latitudes.
+First, we exclude
+
 Compared to the Doldrums, the Horse Latitudes have more pleasant temperature, drier air, less clouds, higher sun exposure (greater potencial for solar), and less prevalence for storms, tornadoes and the like.
 The ideal location for Liber will therefore be in the Horse Latitudes or Subtropical Highs.
 In previous attempts, seasteads were placed very close to territorial waters. On one hand, this makes infrastucture transport and commerce easier. But it also means the higher likelihood that any given nation will interfere and claim Liber as it's sovereignty. Therefore it will be better to be far way, in deep international waters.
