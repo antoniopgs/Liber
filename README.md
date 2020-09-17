@@ -155,7 +155,7 @@ Is it that hard to conceive of a nation interfering and claiming Liber as it's s
 
 The freedom of the new world should not be staked on the whims of other nations. Therefore it will be better to be far way, in deep international waters.
  
-Also regarding over-complication, there are many technologies like Seacreate and OTEC generators tgat may seem like good options, but they are unproven or immature at best.  
+Also regarding over-complication, there are many technologies like Seacreate and OTEC generators that may seem like good options, but they are unproven or immature at best.  
 The Seasteading Insitute also shares received proposals for space platform seasteads, underwater seasteads and all kinds of impractical ideas.
 
 It will be better to found Liber with simpler, more proven technologies, and let Liber's freedom generate these new ideas with time.  
