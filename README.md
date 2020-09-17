@@ -147,7 +147,12 @@ Patri Friedman presents two options:
 
 The High Road might sound attractive, but it brings many complications:
  - Harder to convince investors (It will be hard enough to raise capital for the world's first startup nation, even more so if it's a large capital endeavour.
- - Increased dependance, must be closer to Outside Goverments/Nations, which may interfere (Chad & Nadia vs Thailand). Some countries may even grant Charter City permits. But how long will a less prosperous nation be able to keep its hands off of a more prosperous, but military inferior one?
+ - Increased dependance, which means it must be closer to other Nations. In previous attempts, seasteads were placed very close to territorial waters. On one hand, this makes infrastucture transport and commerce easier. On the other, these neighbour nations may interfere, as they've done in the past (Chad & Nadia vs Thailand).
+
+Some countries may even grant Charter City permits at first, but how long would they keep their hands off of a nearby, more prosperous, but military inferior nation?
+What if the next elected leader is more of an authoritarian? What if a regime change happens? Is it that hard to conceive of a nation interfering and claiming Liber as it's sovereignty?
+
+The freedom of the new world should not be staked on the whims of other nations. Therefore it will be better to be far way, in deep international waters.
  
 Also, there are many technologies like Seacreate and OTEC generators. They may seem like good options, but they are unproven or immature at best.
 It will be better to found Liber with simpler, more proven technologies, and let Liber's freedom generate these new ideas with time.
@@ -193,12 +198,16 @@ Therefore, placing Liber in the Pacific Ocean is a risky move. One could argue t
 
 The next to be eliminated is the Indian Ocean. Although it is not as easily accesible to China or Russia, it is still surronded by non trustworthy nations (like Thailand, who already blocked a previous Seasteading Attempt). Piracy is also much more prevalent in the Indian Ocean.
 
-This leaves us with the Atlantic Ocean
-
-In previous attempts, seasteads were placed very close to territorial waters. On one hand, this makes infrastucture transport and commerce easier. But it also means the higher likelihood that any given nation will interfere and claim Liber as it's sovereignty. Therefore it will be better to be far way, in deep international waters.
-The options are North Atlantic, South Atlantic, North Pacific, South Pacific and the southern Indian Ocean.
-The North and South Pacific are not protected enough from China, the southern indian isn't protected enough from piracy and it's closer to countries who previously stifled seasteading attempts. The South Atlantic could be advantageous due to the proximity to drug cartels, but these are unpredictable.
-The best location will therefore be the North Atlantic Subtropical High. In the heart of western civilization, between The United States of America and Western Europe, this will place Liber in calm waters, good weather, away from piracy, away from major authoritarian regimes and in the heart of important international commerce routes.
+This leaves us with the Atlantic Ocean. Namely between:
+ - The North Atlantic High (or Azores High)
+ - The South Atlantic High (or St. Helena High)
+ 
+Compared to the South Atlantic (which is near places like Brazil and Western Africa) the North Atlantic High will place Liber:
+ - Smack dab in the Heart of Western Civilization, between Western Europe and the world's bastion of freedom, the United States of America.
+ - In the heart of one of the most (if not the most) important trade routes in the world.
+ - In a place where the closest territory are the Azores, a small and autonomous region of Portugal which also embraces freedom. The Azores motto: "Rather die free than subjected in peace".
+ 
+***The North Atlantic High has Stable Waters, Good Weather, Food, Safety and Relevance. It is the perfect place for the new world to be.***
 
 ----- UNDER CONSTRUCTION -----
 
