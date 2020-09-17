@@ -132,23 +132,44 @@ Liber will possess a minimal goverment. It's only function will be to enforce th
 - Military (protect citizens from foreign force)
 - Police (protect citizens from other individuals)
 - Prisons (protect and isolate citizens from individuals incapable of following the NAP)
-- Courts (guarantee and uphold each citizen's rights)
+- Courts (guarantee and uphold each citizen's Constitutional Rights)
 
 ## Main Previous Pitfalls
-There are many technologies like Seacreate and OTEC generators. They may seem like good options, but they are unproven or immature at best.
-It will be better to found Liber with simpler, more proven technologies, and let Liber's freedom generate these new ideas with time.
-Unless the process is simplified, no private funding will ever be received. Better to start small and grow, than to dream too big and fail.
-By reading Patri Freidman's Practical Guide to Seasteading, one can conclude that the main reasons for failure are:
+From reading Patri Freidman's Practical Guide to Seasteading, one can conclude that the main reasons for failure are:
  - Unrealistic Ambitions and Over-Complication.
  - Bad Location Choice
  
-## Location
-- Stability (Calm Waters, Low Winds, No Hurricanes/Tornadoes/Cyclones/Typhoons)
-- Energy (Locations with high Sunlight Exposure)
-- Food (Seastead infrastructure might increase amount of fish)
-- Safety (Away from Piracy, Authoritarian Governments, and the right to bear arms)
+### Unrealistic Ambitions and Over-Complication
+Patri Friedman presents two options:
+ - "High Road" Seasteading (high capital, host country partnership seasteading) - his admitted preference.
+ - "Low Road" Seasteading (low capital, do it yourself seasteading)
 
-Liber will need to be located in calm waters and away from authoritarian regimes. 
+The High Road might sound attractive, but it brings many complications:
+ - Harder to convince investors (It will be hard enough to raise capital for the world's first startup nation, even more so if it's a large capital endeavour.
+ - Increased dependance, must be closer to Outside Goverments/Nations, which may interfere (Chad & Nadia vs Thailand). Some countries may even grant Charter City permits. But how long will a less prosperous nation be able to keep its hands off of a more prosperous, but military inferior one?
+ 
+Also, there are many technologies like Seacreate and OTEC generators. They may seem like good options, but they are unproven or immature at best.
+It will be better to found Liber with simpler, more proven technologies, and let Liber's freedom generate these new ideas with time.
+
+Patri seems to present the "High Road" and "Low Road" as mutually exclusive, but I disagree. If Romulus didn't start small, Rome wouldn't exist.
+It is perfectly reasonable to start on the Low Road and gradually transition to the High Road.
+
+After the first settlers (remote working pioneers, engineers, etc.), it would be reasonable to attract the spearfishing community, to bring in individuals capable of generating self sustenance and surplus, which they could then trade with the rest of the settlers, easily establishing Liber's first businesses.
+From this, the natural progression could be to bring in chefs, cooks and food workers to establish the first floating Restaurant/Establishment/Food Business. It could be supplied by Spearfishermen and used by remote workers. Then cleaning staff, etc.
+Singapore and Hong Kong grew very fast. In an even more free society, I estimate that in 2 years Liber would become a first world country.
+
+Unless the process is simplified, nothing will ever get done. Better to start small and grow, than to start too big and fail.
+The time is now.
+ 
+### Location
+
+Another key element that will help to attract businesses and invidivuals will be location. Liber will need:
+- Stability (Calm Waters, Low Winds, No Hurricanes/Tornadoes/Cyclones/Typhoons)
+- Weather (Pleasant, attractive, sunny weather that will also help Energetic Self Sufficiency - Solar)
+- Food (Warm waters. Seastead infrastructure will also serve as reef and increase amount of fish)
+- Safety (Away from Piracy and Authoritarian Governments)
+
+
 These can be found on The Doldrums or on the Horse Latitudes.
 Compared to the Doldrums, the Horse Latitudes have more pleasant temperature, drier air, less clouds, higher sun exposure (greater potencial for solar), and less prevalence for storms, tornadoes and the like.
 The ideal location for Liber will therefore be in the Horse Latitudes or Subtropical Highs.
