@@ -150,21 +150,25 @@ The High Road might sound attractive, but it brings many complications:
  - Increased dependance, which means it must be closer to other Nations. In previous attempts, seasteads were placed very close to territorial waters. On one hand, this makes infrastucture transport and commerce easier. On the other, these neighbour nations may interfere, as they've done in the past (Chad & Nadia vs Thailand).
 
 Some countries may even grant Charter City permits at first, but how long would they keep their hands off of a nearby, more prosperous, but military inferior nation?
-What if the next elected leader is more of an authoritarian? What if a regime change happens? Is it that hard to conceive of a nation interfering and claiming Liber as it's sovereignty?
+What if the next elected leader is more of an authoritarian? What if a regime change happens?
+
+Is it that hard to conceive of a nation interfering and claiming Liber as it's sovereignty? It has happened before.
 
 The freedom of the new world should not be staked on the whims of other nations. Therefore it will be better to be far way, in deep international waters.
  
-Also, there are many technologies like Seacreate and OTEC generators. They may seem like good options, but they are unproven or immature at best.
-It will be better to found Liber with simpler, more proven technologies, and let Liber's freedom generate these new ideas with time.
+Also regarding over-complication, there are many technologies like Seacreate and OTEC generators tgat may seem like good options, but they are unproven or immature at best.  
+The Seasteading Insitute also shares received proposals for space platform seasteads, underwater seasteads and all kinds of impractical ideas.
 
-Patri seems to present the "High Road" and "Low Road" as mutually exclusive, but I disagree. If Romulus didn't start small, Rome wouldn't exist.
-It is perfectly reasonable to start on the Low Road and gradually transition to the High Road.
+It will be better to found Liber with simpler, more proven technologies, and let Liber's freedom generate these new ideas with time.  
+Patri seems to present the "High Road" and "Low Road" as mutually exclusive, but I disagree. If Romulus didn't start small, Rome wouldn't exist.  
+It is perfectly reasonable to start on the Low Road and gradually transition to the High Road.  
+If freedom has proven anything over time, is it's capacity to generate growth and prosperity.  
 
-After the first settlers (remote working pioneers, engineers, etc.), it would be reasonable to attract the spearfishing community, to bring in individuals capable of generating self sustenance and surplus, which they could then trade with the rest of the settlers, easily establishing Liber's first businesses.
-From this, the natural progression could be to bring in chefs, cooks and food workers to establish the first floating Restaurant/Establishment/Food Business. It could be supplied by Spearfishermen and used by remote workers. Then cleaning staff, etc.
+After the first settlers (remote working pioneers, engineers, etc.), it would be reasonable to attract the spearfishing community, to bring in individuals capable of generating self sustenance and surplus, which they could then trade with the rest of the settlers, easily establishing Liber's first businesses.  
+From this, the natural progression could be to bring in chefs, cooks and food workers to establish the first floating Restaurant/Establishment/Food Business. It could be supplied by Spearfishermen and used by remote workers. Then cleaning staff, etc.  
 Singapore and Hong Kong grew very fast. In an even more free society, I estimate that in 2 years Liber would become a first world country.
 
-Unless the process is simplified, nothing will ever get done. Better to start small and grow, than to start too big and fail.
+Unless the process is simplified, nothing will ever get done. Better to start small and grow, than to start too big and fail.  
 The time is now.
  
 ### Location
