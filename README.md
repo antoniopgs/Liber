@@ -14,7 +14,11 @@
  - Taxes
  - Currency
  - A Hybrid Legal System
- - Structure
+   - The Constitution
+   - The Legal Board
+ - Main Previous Pitfalls
+   - Unrealistic Ambitions and Over-Complication
+   - Location
 
 ## Introduction:
 History has proven time and time again that only authoritarianism can create the type of circumstances out of which the greatest of Human Suffering is born. Economic Stagnation, Censorship, Starvation, Genocides, Slavery, Concentration Camps and Pointless Wars all stem from forceful manipulation and infrigements upon Individual Liberty.
