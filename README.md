@@ -235,5 +235,5 @@ Lorem Ipsum.
 Next Steps: Show this to Joe and Patri. Engage with the Objectivist and Minarchist Communities and turn this into a worldwide document. Talk with companies like Ocean Builders and figure out how to deploy their homes in the high seas. Assess costs, timelines, etc. Evaluate interest from spearfishermen and engineers.
   
 Other thoughts:
- - To bundle or not bundle taxes? Should citizens have the option to only pay for courts, for instance? Probably not, but will need to think further on this?
- - Could Blockchain provide solid proof of identity mechanisms and enable decentralized democratic processes? Will need to investigate. Identity would probably be attached to the Citizenship Contract.
+ - To bundle or not bundle taxes? Should citizens have the option to only pay for courts, for instance? Probably not, but will need to think further on this...
+ - Could Blockchain provide solid proof of identity mechanisms and enable decentralized democratic processes? Will need to investigate. Identity would probably be attached to the Citizenship Contract...
