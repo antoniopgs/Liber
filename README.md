@@ -170,11 +170,19 @@ Another key element that will help to attract businesses and invidivuals will be
 - Food (Plentiful, warm waters. Seastead infrastructure will also serve as reef and increase amount of fish)
 - Safety (Away from Piracy and Authoritarian Governments)
 
-Rough waters are mostly caused by transversal winds, whereas the calmest and most stable waters are found in the areas where air moves up or down, instead of across the surface.
-These can be found on places like The Doldrums and the Horse Latitudes, as shown below:
-![Image of Atmospheric Circulation](/atmospheric_circulation.png)
+Rough waters are mostly caused by transversal winds.  
+In contrast, the calmest and most stable waters are found in the areas where air converges (and moves up) or diverges (and moves down).
 
-First, we exclude
+These can be found on places like The Doldrums, Horse Latitudes, and Sub-Polar Low Pressure Belts as shown below:
+![Image of Atmospheric Circulation](/atmospheric_circulation.jpg)
+
+First, we exclude the Sub-Polar Low Pressure Belts, as they are far too cold. We are left with the Doldrums and the Horse Latitudes.
+
+The main difference between the Doldrums and the Horse Latitudes is the atmospheric humidity.
+In the Doldrums, the climate is far more prone to rain, storms and the like; whereas in the Horse Latitudes the air is dryer. This makes the high temperatures much more pleasant, and also creates clear skies, boosting the usability of Solar Energy.
+
+We are now left to choose between the Northern or Southern Substropical High Pressure Belt
+
 
 Compared to the Doldrums, the Horse Latitudes have more pleasant temperature, drier air, less clouds, higher sun exposure (greater potencial for solar), and less prevalence for storms, tornadoes and the like.
 The ideal location for Liber will therefore be in the Horse Latitudes or Subtropical Highs.
