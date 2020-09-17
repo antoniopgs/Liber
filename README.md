@@ -120,6 +120,7 @@ Therefore, the optimal solution will be to have two legal documents:
 8. The right of each citizen to own and totally control his property shall not be infringed upon.
 9. No citizen, group, entity or organization shall receive any form of payment/bailout/government funding.
 10. No citizen shall be imprisoned or penalized for anything other than infringing upon another citizen's rights.
+
 *(Will refine this, just a first sketch. Note: Another valuable point of Taleb is Silver Rule > Golden Rule. Many disasters were caused by agents who believe to be doing the right thing. In the legal system for the world's first truly free society, individuals should not be told what they are allowed to do. They should be told what they are not allowed to do (via negativa). This will also allow to make the laws clearer, more objective and less ambiguous)*
 
 ### The Legal Board:
