@@ -6,7 +6,7 @@
 
 **Motto:** Lex, Logos, Libertas (Law, Reason, Liberty)
 
-![Image of a Seastead](/Seasteading.jpg)
+![Image of a Seastead](/images/seasteading_cover.jpg)
 
 ## Index
  - Introduction
@@ -188,7 +188,7 @@ Rough waters are mostly caused by transversal winds.
 In contrast, the calmest and most stable waters are found in the areas where air converges (and moves up) or diverges (and moves down).
 
 These can be found on places like The Doldrums, Horse Latitudes, and Sub-Polar Low Pressure Belts as shown below:
-![Image of Atmospheric Circulation](/atmospheric_circulation.jpg)
+![Image of Atmospheric Circulation](/images/atmospheric_circulation.jpg)
 
 First, we exclude the Sub-Polar Low Pressure Belts, as they are far too cold. We are left with the Doldrums and the Horse Latitudes.
 
@@ -196,7 +196,7 @@ The main difference between the Doldrums and the Horse Latitudes is the atmosphe
 Compared to the Doldrums, the Horse Latitudes have a drier atmosphere, which causes more a pleasant temperature, less clouds, higher sun exposure (greater potencial for solar) and fewer storms, tornadoes and the like.
 
 We are now left to choose between the Northern or Southern Substropical High Pressure Belt, as shown below:
-![Image of Atmospheric Circulation](/horse_latitudes.jpg)
+![Image of Atmospheric Circulation](/images/horse_latitudes.jpg)
 
 Both options already give us Stable Waters with Good Weather and Strong Biodiversity.
 The next selections will be based on Safety and Relevance.
