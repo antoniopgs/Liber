@@ -181,7 +181,8 @@ First, we exclude the Sub-Polar Low Pressure Belts, as they are far too cold. We
 The main difference between the Doldrums and the Horse Latitudes is the atmospheric humidity.
 In the Doldrums, the climate is far more prone to rain, storms and the like; whereas in the Horse Latitudes the air is dryer. This makes the high temperatures much more pleasant, and also creates clear skies, boosting the usability of Solar Energy.
 
-We are now left to choose between the Northern or Southern Substropical High Pressure Belt
+We are now left to choose between the Northern or Southern Substropical High Pressure Belt, as shown below:
+![Image of Atmospheric Circulation](/horse_latitudes.jpg)
 
 
 Compared to the Doldrums, the Horse Latitudes have more pleasant temperature, drier air, less clouds, higher sun exposure (greater potencial for solar), and less prevalence for storms, tornadoes and the like.
