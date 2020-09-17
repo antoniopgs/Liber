@@ -82,8 +82,6 @@ The optimal solution would be to declare a certain asset as a standard for the C
 For example, the Citizenship Contract could be 3 ETH for 2021 and 2 ETH for 2022 (as the value of Ether changes). Or instead of ETH, Liber could still decide to tax Citizenship in dollars or euros, but paid through Bitcoin.
 The payments will be made to a governmental cryptocurrency address, which increases safety and transparency, decreasing corruption.  
 *(Need to think further about what standard Liber should use for its taxes.)*
-
-______________________________________________________________________________________
   
 ## A Hybrid Legal System:
 Throughout History, many free nations have evolved to authoritarian regimes, through the progressive destruction of their constitution/legal code.
