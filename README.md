@@ -8,6 +8,14 @@
 
 ![Image of a Seastead](/Seasteading.jpg)
 
+## Index
+ - Introduction
+ - On the Redistribution of Wealth
+ - Taxes
+ - Currency
+ - A Hybrid Legal System
+ - Structure
+
 ## Introduction:
 History has proven time and time again that only authoritarianism can create the type of circumstances out of which the greatest of Human Suffering is born. Economic Stagnation, Censorship, Starvation, Genocides, Slavery, Concentration Camps and Pointless Wars all stem from forceful manipulation and infrigements upon Individual Liberty.
 
@@ -127,13 +135,6 @@ Therefore, the optimal solution will be to have two legal documents:
 
 *(Will refine these examples, just a first sketch...)*
 
-## Structure:
-Liber will possess a minimal goverment. It's only function will be to enforce the Non Agression Principle protection for all it's citizens (Citizenship Contract paying individuals). To enforce the NAP, the following institutions will be needed:
-- Military (protect citizens from foreign force)
-- Police (protect citizens from other individuals)
-- Prisons (protect and isolate citizens from individuals incapable of following the NAP)
-- Courts (guarantee and uphold each citizen's Constitutional Rights)
-
 ## Main Previous Pitfalls
 From reading Patri Friedman's Practical Guide to Seasteading, one can conclude that the main reasons for failure are:
  - Unrealistic Ambitions and Over-Complication.
@@ -224,6 +225,13 @@ This should be taken into account when deciding on Liber's Location.
 
 ## Laws vs Rulers
 Lorem Ipsum.
+
+## Structure:
+Liber will possess a minimal goverment. It's only function will be to enforce the Non Agression Principle protection for all it's citizens (Citizenship Contract paying individuals). To enforce the NAP, the following institutions will be needed:
+- Military (protect citizens from foreign force)
+- Police (protect citizens from other individuals)
+- Prisons (protect and isolate citizens from individuals incapable of following the NAP)
+- Courts (guarantee and uphold each citizen's Constitutional Rights)
 
 ## Conclusions:
  - Liber will be a nation founded on individual liberty.
