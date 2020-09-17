@@ -229,8 +229,8 @@ Lorem Ipsum.
  - Liber will be a nation founded on individual liberty.
  - Liber will be governed by Laws, not people.
  - Liber will have a Hybrid Legal System, with two sets of laws:
-  - The Constitution (permanent and unmodifiable)
-  - The Legal Board (everchanging and modifiable).
+   - The Constitution (permanent and unmodifiable)
+   - The Legal Board (everchanging and modifiable).
   
 Next Steps: Show this to Joe and Patri. Engage with the Objectivist and Minarchist Communities and turn this into a worldwide document. Talk with companies like Ocean Builders and figure out how to deploy their homes in the high seas. Assess costs, timelines, etc. Evaluate interest from spearfishermen and engineers.
   
