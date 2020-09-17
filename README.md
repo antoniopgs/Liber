@@ -126,7 +126,8 @@ Therefore, the optimal solution will be to have two legal documents:
 ### The Legal Board:
 - In the year of 2021, Liber's citizens voted that the carbon emmision costs will be X per CO2 ton.
 - In the year of 2021, Liber's citizens outlawed fishing over X tons of fish Y over the course of the year.
-*(Will refine this, just a first sketch...)*
+
+*(Will refine these examples, just a first sketch...)*
 
 ## Structure:
 Liber will possess a minimal goverment. It's only function will be to enforce the Non Agression Principle protection for all it's citizens (Citizenship Contract paying individuals). To enforce the NAP, the following institutions will be needed:
@@ -136,7 +137,7 @@ Liber will possess a minimal goverment. It's only function will be to enforce th
 - Courts (guarantee and uphold each citizen's Constitutional Rights)
 
 ## Main Previous Pitfalls
-From reading Patri Freidman's Practical Guide to Seasteading, one can conclude that the main reasons for failure are:
+From reading Patri Friedman's Practical Guide to Seasteading, one can conclude that the main reasons for failure are:
  - Unrealistic Ambitions and Over-Complication.
  - Bad Location Choice
  
@@ -162,13 +163,13 @@ The Seasteading Insitute also shares received proposals for space platform seast
 It will be better to found Liber with simpler, more proven technologies, and let Liber's freedom generate these new ideas with time.  
 Patri seems to present the "High Road" and "Low Road" as mutually exclusive, but I disagree. If Romulus didn't start small, Rome wouldn't exist.  
 It is perfectly reasonable to start on the Low Road and gradually transition to the High Road.  
-If freedom has proven anything over time, is it's capacity to generate growth and prosperity.  
+If freedom has proven anything over time, is its capacity to generate growth and prosperity.  
 
 After the first settlers (remote working pioneers, engineers, etc.), it would be reasonable to attract the spearfishing community, to bring in individuals capable of generating self sustenance and surplus, which they could then trade with the rest of the settlers, easily establishing Liber's first businesses.  
 From this, the natural progression could be to bring in chefs, cooks and food workers to establish the first floating Restaurant/Establishment/Food Business. It could be supplied by Spearfishermen and used by remote workers. Then cleaning staff, etc.  
-Singapore and Hong Kong grew very fast. In an even more free society, I estimate that in 2 years Liber would become a first world country.
+Singapore and Hong Kong grew very fast. In an even freer society, I estimate that it would take less than 5 years for Liber to become a first world country.
 
-Unless the process is simplified, nothing will ever get done. Better to start small and grow, than to start too big and fail.  
+Unless the process is simplified, nothing will ever get done. Better to start small and grow, than to start too big and crash. Romulus > Icarus.  
 The time is now.
  
 ### Location
@@ -213,7 +214,7 @@ Compared to the South Atlantic (which is near places like Brazil and Western Afr
  
 ***The North Atlantic High has Stable Waters, Good Weather, Food, Safety and Relevance. It is the perfect womb for the new world.***
 
------ UNDER CONSTRUCTION -----
+---------------------------------------- UNDER CONSTRUCTION ----------------------------------------
 Next Step: Talk with companies like Ocean Builders and figure out how to deploy their homes in the high seas. Assess costs, timelines, etc.
 
 
@@ -234,3 +235,7 @@ Lorem Ipsum.
  - Liber will have a Hybrid Legal System, with two sets of laws:
   - The Constitution (permanent and unmodifiable)
   - The Legal Board (everchanging and modifiable).
+  
+Other thoughts:
+ - To bundle or not bundle taxes? Should citizens have the option to only pay for courts, for instance? Probably not, but will need to think further on this?
+ - Could Blockchain provide solid proof of identity mechanisms and enable decentralized democratic processes? Will need to investigate. Identity would probably be attached to the Citizenship Contract.
