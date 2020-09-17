@@ -207,9 +207,11 @@ Compared to the South Atlantic (which is near places like Brazil and Western Afr
  - In the heart of one of the most (if not the most) important trade routes in the world.
  - In a place where the closest territory are the Azores, a small and autonomous region of Portugal which also embraces freedom. The Azores motto: "Rather die free than subjected in peace".
  
-***The North Atlantic High has Stable Waters, Good Weather, Food, Safety and Relevance. It is the perfect place for the new world to be.***
+***The North Atlantic High has Stable Waters, Good Weather, Food, Safety and Relevance. It is the perfect womb for the new world.***
 
 ----- UNDER CONSTRUCTION -----
+Next Step: Talk with companies like Ocean Builders and figure out how to deploy their homes in the high seas. Assess costs, timelines, etc.
+
 
 ## Potential Threats Liber Might Pose
 Liber (by its own nature) will obviously present a threat to politicians, bureaucrats and authoritarian governments.
