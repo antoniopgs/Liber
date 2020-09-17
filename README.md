@@ -48,23 +48,23 @@ However, if through tax payments, you gave people the ultimate incentive, they w
 
 Their rights.  
 If you needed to pay taxes to have freedom of speech, the right to a fair trial, access to the police, and the right to own property, wouldn't you pay them?  
-Also, didn't we just conclude that in a free society, protecting individuals from force should be the only role of government?  
+Also, in a free society, isn't protecting individuals from force the only role of government?  
 If I don't pay my taxes, what right do I have to the protection of police officers or the effort of judges?  
 **Granting Rights through taxation is the only rational, pragmatic and fair way to maintain a state without fiscal force ("fair" given that the price of citizenship should be the same for all individuals, regardless of their wealth).**
 
-The implementation of this will be called the **Citizenship Tax**:
+The implementation of this will be called the **Citizenship Contract**:
 - Only citizens of Liber shall have rights.
-- To attain citizenship, one only needs to pay the Citizenship Tax.
-- The Citizenship Tax shall be the only form of taxation, and include within itself only the necessary cost to support a minimal and essencial government.
-- The Citizenship Tax shall be available to all individuals.
-- The Citizenship Tax shall rant access to all Constitutional Rights.
-- The Citizenship Tax will grant citizenship for 1 year, and every individual is free to renew his citizenship.
-- Maybe a Visitor Tax could also be implemented. It would grant rights for shorter periods of time.
+- To attain citizenship, one only needs to pay the Citizenship Contract.
+- The Citizenship Contract shall be the only form of taxation, and include within itself only the necessary cost to support a minimal and essencial government.
+- The Citizenship Contract shall be available to all individuals.
+- The Citizenship Contract shall grant access to all Constitutional Rights.
+- The Citizenship Contract will grant citizenship for 1 year, and every individual is free to renew his citizenship.
+- Maybe a Visitor Contract could also be implemented. It would grant rights for shorter periods of time. (Will think more about this later on).
 
 This would have several benefits:
 1. No Fiscal Authority (like an IRS) would be needed.
-2. The Tax paying process would be simpler. The Citizenship Tax payment could be done directly from each citizen to a governmental blockchain address (more on this later).  
-3. **Because of benefits 1 and 2, the size of goverment would be drastically reduced. This means less money would be necessary to maintain it, which would reduce even further the cost of the Citizenship Tax.**
+2. The Tax paying process would be simpler. The Citizenship Contract payment could be done directly from each citizen to a governmental blockchain address (more on this later).
+3. **Because of benefits 1 and 2, the size of goverment would be drastically reduced. This means less money would be necessary to maintain it, which would reduce even further the cost of the Citizenship Contract.**
 
 ## Currency:
 Previous Seasteading attempts have tried to implement their own currency (see Republic of Minerva).  
@@ -78,8 +78,8 @@ Luckily, Cryptocurrencies have several advantages over National Currency, comple
 - There are already many companies, apps and wallets ready to allow easy P2P Cryptocurrency transfers (Revolut, Circle, BitPay, Coinbase Commerce, Metamask, etc.)
 
 Although Liber will not need any official currency, there will need to be some sort of standard for taxation.  
-The optimal solution would be to declare a certain Cryptocurrency as a standard for the Citizenship Tax. As the Citizenship Tax will be a renewable yearly contract, it's value (and the currency it's paid in) could be easily adjusted, as long as citizenship is equal to all individuals in a given year.  
-For example, the Citizenship Tax could be 3 ETH for 2021 and 2 ETH for 2022 (as the value of Ether changes). Or instead of ETH, Liber could decide to tax Citizenship in BTC, LINK, XMR, etc.  
+The optimal solution would be to declare a certain Cryptocurrency as a standard for the Citizenship Contract. As the Citizenship Contract will be a renewable yearly contract, it's value (and the currency it's paid in) could be easily adjusted, as long as citizenship is equal to all individuals in a given year.  
+For example, the Citizenship Contract could be 3 ETH for 2021 and 2 ETH for 2022 (as the value of Ether changes). Or instead of ETH, Liber could decide to tax Citizenship in BTC, LINK, XMR, etc.  
 The payments will be made to a governmental cryptocurrency address, which increases safety and transparency, while also decreasing corruption.  
 *(Need to think further about what standard Liber should use for it's taxes.)*
 
